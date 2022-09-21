@@ -1,3 +1,6 @@
 Octopus_1.1_Stepper_Fan_Shroud_v2.stl
   Requirements:
   - 5015 blower edited to fit the <a href="https://github.com/nevermore3d/Nevermore_Micro">Nevermore Micro</a> with the top shell removed.
+
+v2.1
+  - Fixes a wall thickness issue on the back side.
